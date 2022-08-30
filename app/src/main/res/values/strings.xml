@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OwnAttest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">OwnAttest</string>
+    <string name="second_fragment_label">Add Device</string>
+
+</resources>
